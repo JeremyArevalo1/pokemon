@@ -1,2 +1,2 @@
-# pokemon
-Api de pokemons
+# Repositorio-Pokemon
+Proyecto utlizando la API de pokeapi
